@@ -4,7 +4,7 @@ This portfolio is a small project using the HTML/CSS and Bootstrap. I will be us
 [LIVE REPLIT DEPLOYMENT]()
 
 # Screenshot:
- <img width="1373" alt="Screenshot 2022-03-15 at 2 33 29 PM" src="https://user-images.githubusercontent.com/100840176/158343241-3ba369b4-1eb1-46df-addd-c26ad22bc953.png">
+![Screenshot 2023-02-13 at 10 20 26 AM](https://user-images.githubusercontent.com/108850199/218373330-5087ec31-0eee-42c6-859e-edda4bdf4859.png)
 
 # Technologies Used:
 * HTML 
